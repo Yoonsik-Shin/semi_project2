@@ -118,7 +118,7 @@
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?&style=flat&logo=SCSS&logoColor=white%3E%5D)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat&logo=Bootstrap&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat&logo=SQLite&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Visual Studio Code&logoColor=white)![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white)![AWS S3](https://img.shields.io/badge/AmazonS3-569A31.svg?&style=flat&logo=AmazonS3&logoColor=white)![AWS RDS](https://img.shields.io/badge/AmazonRDS-27FFF1.svg?&style=flat&logo=AmazonRDS&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat&logo=SQLite&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?&style=flat&logo=VisualStudioCode&logoColor=white)![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white)![AWS S3](https://img.shields.io/badge/AmazonS3-569A31.svg?&style=flat&logo=AmazonS3&logoColor=white)![AWS RDS](https://img.shields.io/badge/AmazonRDS-27FFF1.svg?&style=flat&logo=AmazonRDS&logoColor=white)
 
 ​     
 
@@ -130,15 +130,17 @@
 
 ### 👨‍🌾팀원
 
-| 이름   | 담당 기술  | 기능 구현                   |
-| ------ | ---------- | --------------------------- |
-| 신윤식 | 풀스택     |                             |
-| 김유영 | 백엔드     | 상품 스펙크롤링, 마이페이지 |
-| 이성인 | 백엔드     | 상품 디테일 백엔드 작업     |
-| 조창현 | 백엔드     | 기본 CRUD, 장바구니         |
-| 이호빈 | 프론트엔드 | 메인 템플릿                 |
+| 이름   | 담당 기술  | 기능 구현                                       |
+| ------ | ---------- | ----------------------------------------------- |
+| 신윤식 | 풀스택     | 상품크롤링, 무한스크롤, 상품 검색, 상품 필터링, |
+| 김유영 | 백엔드     | 상품 스펙크롤링, 마이페이지                     |
+| 이성인 | 백엔드     | 상품 디테일 백엔드 작업                         |
+| 조창현 | 백엔드     | 기본 CRUD, 장바구니                             |
+| 이호빈 | 프론트엔드 | 메인 템플릿                                     |
 
 <a href="https://github.com/sungin95/semi_project_second/graphs/contributors"> <img src="https://contrib.rocks/image?repo=sungin95/semi_project_second" /></a>
+
+![image-20221123165518175](README.assets/image-20221123165518175.png)
 
 ​     
 
@@ -178,9 +180,9 @@
 
 ## 🚩 **프로젝트 회고 및 후기**
 
-### Keep
+### 1️⃣ Keep
 
-####  신윤식
+####  신윤식 [본인]
 
 - 크롤링을 처음 해봤는데 생각보다 잘 풀려서 좋았다.
 - 다른 사람들이 작성한 코드를 보고 이해하여 고도화하는 과정에서 성취감을 느꼈습니다.
@@ -209,9 +211,9 @@
 
 ---
 
-### Problem
+### 2️⃣ Problem
 
-- #### 신윤식
+- #### 신윤식 [본인]
 
   - 결제기능을 구현하지 못한것이 아쉬웠다.
   - 안해본 기능을 해보고 싶었는데 못한게 아쉬웠다. (블로그글, 실시간 채팅, 필터링 비동기)
@@ -234,6 +236,7 @@
   - 더 많은 디자인들을 보고 디자인 고민을 했었어야 했는데 그러지 못해서 아쉽습니다.
   
 - 조창현
+  
   - 자바스크립트를 제대로 다루지 못해서 도와주지 못했던 부분들이 아쉽습니다.
   - 스스로가 부족하여 다른 기능들을 다뤄보지 못해서 아쉬웠습니다.
 
@@ -241,9 +244,9 @@
 
 ---
 
-### Try
+### 3️⃣  Try
 
-- #### 신윤식
+- #### 신윤식 [본인]
 
   - 시간을 더 불태운다 (시간이 약)
   - 배포에 대한 지식을 더 공부해야겠다.
@@ -272,7 +275,7 @@
 
 ---
 
-### Others
+### 4️⃣ Others
 
 - 김유영
   - My 후렌즈들 고생했어 🫶
