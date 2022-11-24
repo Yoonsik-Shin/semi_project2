@@ -1,6 +1,6 @@
 
 
-# 인텔리랩스 (Intellilabs)
+# [인텔리랩스 (Intellilabs)](http://intellilabs-env.eba-cynacmth.ap-northeast-2.elasticbeanstalk.com/)
 
 ​    
 
@@ -13,6 +13,14 @@
 ​    
 
 ### 💻 서비스 주요기능
+
+- 인트로 페이지
+
+![intro](README.assets/intro.gif)
+
+- 메인 페이지
+
+![main](README.assets/main.gif)
 
 - 카카오톡 공유하기
 
